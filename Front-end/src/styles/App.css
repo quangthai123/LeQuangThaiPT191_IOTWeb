@@ -1,0 +1,9 @@
+.main{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkturquoise;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 20px;
+}

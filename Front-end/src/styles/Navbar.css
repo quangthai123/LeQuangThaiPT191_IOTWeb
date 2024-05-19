@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    /* justify-content: center; */
+    padding-left: 133px;
+    align-items: center;
+    background-color: white;
+    height: 10vh;
+    width: 100%;
+  }
+  
+  .linkPage {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  .linkPage:hover {
+    color: black;
+  }
+  
+  .active{
+    color: darkturquoise;
+    font-weight: bold;
+  }
+  
