@@ -40,9 +40,9 @@
     CLIENT
    
        cd LeQuangThaiPT191_IOTWeb/fe
-       npm start
+       npm run dev
 
    SERVER
 
        cd LeQuangThaiPT191_IOTWeb/server
-       npm start
+       npm run dev
